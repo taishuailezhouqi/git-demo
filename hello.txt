@@ -14,4 +14,4 @@ hello taishuailezhouqi! hello git!
 hello taishuailezhouqi! hello git!
 hello taishuailezhouqi! hello git!
 hello taishuailezhouqi! hello git! master test
-hello taishuailezhouqi! hello git!
+hello taishuailezhouqi! hello git! hot-fix test
